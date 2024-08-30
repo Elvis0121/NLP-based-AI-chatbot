@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hello there!"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hi, how are you"
+    },
+    {
+      "question": "hi",
+      "answer": "Hi"
+    },
+    {
+      "question": "I'm well thanks",
+      "answer": "Great to hear!"
+    },
+    {
+      "question": "how are y",
+      "answer": "I'm fine thanks and you?"
+    },
+    {
+      "question": "I'm alright",
+      "answer": "Sweet. I'm glad you're fine."
+    },
+    {
+      "question": "Great, thanks.",
+      "answer": "Fantastic!"
+    },
+    {
+      "question": "I'm fine",
+      "answer": "Lovely!"
+    },
+    {
+      "question": "great",
+      "answer": "cheers"
+    },
+    {
+      "question": "/usr/local/bin/python3 /Users/chipiro/Desktop/random/ai/chat_bot_adaptable.py",
+      "answer": "skkip"
+    },
+    {
+      "question": "what's your name",
+      "answer": "I am an NLP-based chatbot, and I learn new stuff that you teach me across user sessions. Then I can accurately respond to your questions."
+    },
+    {
+      "question": "who are you chatbot",
+      "answer": "I am an NLP-based chatbot, and I learn new stuff that you teach me across user sessions. Then I can accurately respond to your questions."
+    }
+  ]
+}
